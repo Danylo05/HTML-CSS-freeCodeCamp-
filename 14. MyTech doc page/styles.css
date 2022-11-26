@@ -1,0 +1,37 @@
+body{
+    font-family: sans-serif;
+    background-color: lightblue ;
+}
+
+#main-doc > #navbar > header > h1{
+    color:darkorchid;
+    font-size: 40px;
+    margin: 0;
+    padding: 20px 0;
+
+    padding-left: 20px;
+}
+
+#navbar{
+    margin: 0;
+    padding-left: 0px;
+    width: 440px;
+    border-bottom: 3px solid blue;
+    border-right: 3px solid blue;
+}
+#navbar a{
+    font-size: 30px;
+    display: block;
+    background-color: lightblue;
+    border-top: 3px solid blue;
+    height: 100px;
+    line-height: 100px;
+    text-decoration: none;
+    color:chocolate;
+    padding-left: 20px;
+}
+
+#main-doc{
+    margin-top: -790px;
+    margin-left: 460px;
+    max-width:  1100px;
